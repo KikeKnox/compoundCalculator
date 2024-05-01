@@ -32,7 +32,7 @@ cargo run
 This will start the program.
 
 ## Option 2 - Download the exe
-Just for people that don't want to struggle with programming stuff, can download the `compoundCalculator.exe` from [here](https://github.com/KikeKnox/Scripts/raw/main/Rust/compoundCalculator/compoundCalculator.exe). Is the code of the repo already compiled so is just download and run.
+Just for people that don't want to struggle with programming stuff, can download the `compoundCalculator.exe` from [here](https://github.com/KikeKnox/compoundCalculator/releases). Is the code of the repo already compiled so is just download and run.
 
 ## CSV File Structure
 
